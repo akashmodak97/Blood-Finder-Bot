@@ -50,10 +50,7 @@ Deployment –
 ```sh
 git clone https://github.com/codechella2020/codechella_final_project.git
 ```
-3. Install NPM packages
-```sh
-npm install
-```
+
 
 ## Developed By -
 
