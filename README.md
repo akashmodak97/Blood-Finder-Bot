@@ -50,6 +50,7 @@ Deployment –
 ```sh
 git clone https://github.com/codechella2020/codechella_final_project.git
 ```
+3. Add your API keys
 
 
 ## Developed By -
