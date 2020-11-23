@@ -56,7 +56,7 @@ git clone https://github.com/codechella2020/codechella_final_project.git
 ## Developed By -
 
 * [Akash Modak](https://github.com/akashmodak97)
-* [Bharati Sharma](https://github.com/bhartiddn01)
+* [Bharti Sharma](https://github.com/bhartiddn01)
 * [Swarup Dey Sarkar](https://github.com/deysarkarswarup)
 
 
