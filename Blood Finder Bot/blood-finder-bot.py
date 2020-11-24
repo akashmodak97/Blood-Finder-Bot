@@ -28,12 +28,12 @@ flag = 0
 tweet = ''
 
 
-print ('Twitter Blut Bot')
+# Add your keys here
 
-CONSUMER_KEY = 'Fv6mQY2485xAUWukIp4dvJ5Q2'
-CONSUMER_SECRET = 'DIq4uZlb0Y7bs0iw1aPVWRS9AWW1IuSyV8z6TUmrsBjT31n9Je'
-ACCESS_KEY = '1329403955235807232-yL9WiGDJdo8nLcn3Dmz6IlCBkswSTQ'
-ACCESS_SECRET = 'z3xwLhE44aerfquwFSqtihs3RPjYz3kTJOVoFLDSOFPxj'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 
